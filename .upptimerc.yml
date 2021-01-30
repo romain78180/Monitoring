@@ -4,8 +4,8 @@ repo: Monitoring # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Office
+    url: https://www.Office.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
